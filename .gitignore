@@ -1,0 +1,6 @@
+# dependencies
+/train
+/logs
+/.ipynb_checkpoints
+/test
+/dog-breed-identification.zip
